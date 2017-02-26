@@ -2,6 +2,8 @@
 experiments in Erlang VM: single layer perceptron in elixir
 
 ### usage
-* `iex -S mix`
-* `NeuralNetwork.simple_test`
-* `NeuralNetwork.complex_test(5, 300, 310, 20)`
+```
+iex -S mix
+NeuralNetwork.simple_test
+NeuralNetwork.complex_test(5, 300, 310, 20)
+```
